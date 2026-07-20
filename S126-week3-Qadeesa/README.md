@@ -1,13 +1,9 @@
-Urdu OCR Project - Week 3
-Programme
+# Urdu OCR Project | Code Saviours SI-26 | Week 3
 
-ML / AI Internship - SI-26 Code Saviours (SMC-PRIVATE) Limited
-
-Week 3 Goal
-
+# Week 3 Goal
 Expand the dataset to 200+ images and build a PyTorch Dataset class for model training.
 
-What Was Done
+# What Was Done
 
 Step 1: Dataset Expansion
 Expanded image collection from 100 (Week 1) to 200+ images
@@ -23,7 +19,7 @@ Verified dataset loads correctly by checking sample shapes
 Created an 80/20 train/test split using torch.utils.data.random_split
 Built DataLoader objects for both splits and confirmed batch loading works
 
-Files
+# Files
 File	                Description
 Week3_Urdu_OCR.ipynb	Notebook containing dataset expansion check, Dataset class, and DataLoader setup
 data/labels.csv	      Updated labels file with 200+ image-text pairs
