@@ -1,8 +1,5 @@
-# Urdu OCR Project | Code Saviours SI-26
-
+# Urdu OCR Project | Code Saviours SI-26 | Week 1
 ## Project Overview
-This repository contains my Week 1 submission for the **ML/AI Internship Programme (Batch SI-26)** at **Code Saviours (SMC-PRIVATE) Limited**.
-
 The goal of this project is to build an **Urdu Optical Character Recognition (OCR)** system that can recognize Urdu text from images and convert it into machine-readable text. During Week 1, the focus was on setting up the development environment, understanding the OCR problem, collecting dataset images, and creating labels for training.
 
 ## Research Summary
