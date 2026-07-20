@@ -1,4 +1,4 @@
-# week2-code-saviour
+# Urdu OCR Project | Code Saviours SI-26 | Week 2
 Gap Analysis
 Image 1 (urdu_03.png)
 
