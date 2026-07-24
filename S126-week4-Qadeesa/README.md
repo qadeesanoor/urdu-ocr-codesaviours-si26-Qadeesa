@@ -1,4 +1,4 @@
-Urdu OCR Project | Code Saviours SI-26 | Week 3
+# Urdu OCR Project | Code Saviours SI-26 | Week 3
 
 # What Was Done
 
