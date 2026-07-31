@@ -1,0 +1,9 @@
+gradio
+pytesseract
+opencv-python
+transformers==4.35.0
+torch==2.0.1
+Pillow==10.0.0
+sentencepiece
+numpy
+pandas
