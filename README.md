@@ -1,4 +1,4 @@
-#  **Urdu OCR using TrOCR**
+#  **Urdu OCR using TrOCR | Code Saviours SI-26 | Qadeesanoor**
 An end-to-end **Urdu Optical Character Recognition (OCR)** project developed during the **Code Saviours SI-26 Internship**. This repository documents the complete development process over **4 weeks**, from dataset preparation to training and evaluating a deep learning OCR model.
 
 ## ** Project Overview**
